@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854011598051",
+    "firebase_url": "https://olcademylogin-4e8e8.firebaseio.com",
+    "project_id": "olcademylogin-4e8e8",
+    "storage_bucket": "olcademylogin-4e8e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854011598051:android:c10a21841c79edb8",
+        "android_client_info": {
+          "package_name": "com.example.akshay.olcademylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854011598051-qfiavrpda07gscqaif924k7uv5jivr80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akshay.olcademylogin",
+            "certificate_hash": "2e739595f81e3035121a6c640c5d8790d7ab6d3f"
+          }
+        },
+        {
+          "client_id": "854011598051-ircnptrlm6mtntv2lkb0gn1dnotk2vai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMhAQtqURwjbC3M8QeErsC6HZXvv_i-_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854011598051-ircnptrlm6mtntv2lkb0gn1dnotk2vai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
